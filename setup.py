@@ -8,7 +8,6 @@ install_requires = ["boto3==1.9.196", "click==7.0", "requests-aws4auth==0.9"]
 tests_requires = [
     "flake8==3.7.8",
     "isort==4.3.21",
-    "moto==1.3.13",
     "pytest==5.0.1",
     "pytest-cov==2.7.1",
 ]
