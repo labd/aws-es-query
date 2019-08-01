@@ -15,3 +15,7 @@ or even better, use [pipx](https://github.com/pipxproject/pipx)
 ## Usage
     aws-es-query --role-arn=<iam-role> <endpoint>
 
+
+# Alternatives
+
+ - https://github.com/okigan/awscurl
